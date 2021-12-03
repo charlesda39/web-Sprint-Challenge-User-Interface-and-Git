@@ -101,16 +101,6 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
-    width: 12.5%;
-    height: 100px;
-    background: black;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 .middle-content .boxes .box1{
     width: 12.5%;
     height: 100px;
@@ -211,15 +201,7 @@ p {
     align-items: center;
     justify-content: center;
 }
-    width: 12.5%;
-    height: 100px;
-    background: black;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -256,7 +238,8 @@ header nav a{
     color: black;
     text-decoration: none;
     text-align: center;
-    
+    margin-right: 70px;
+    margin-top: 80px;
 }
 .container2{
     display: flex;
