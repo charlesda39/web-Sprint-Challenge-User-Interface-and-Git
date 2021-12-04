@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+    
 }
 ol, ul {
 	list-style: none;
@@ -250,7 +251,10 @@ header nav a{
     margin-left: 9%;
     margin-right: 8%;
 }
-
 .topimg{
     margin-bottom: 25px;
+}
+.containertopsec{
+    display: flex;
+    flex-wrap: wrap;
 }
